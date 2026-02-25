@@ -2,7 +2,8 @@
 
 > A Unity Editor tool that converts **IFC (Industry Foundation Classes)** files directly into Unity scenes using **IfcOpenShell** (Python), preserving geometry, materials, metadata, and the full BIM spatial hierarchy.
 
-![Unity Editor UI](image.png)
+![Unity Editor UI](<img width="557" height="703" alt="image" src="https://github.com/user-attachments/assets/0a5c6db3-22d8-4ab3-ab6b-9c287f944780" />
+)
 
 <p align="center"><em>Ifc2Unity — Unity Editor Window</em></p>
 
