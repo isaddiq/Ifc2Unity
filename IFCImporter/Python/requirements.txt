@@ -1,0 +1,5 @@
+# Python dependencies for IFC to Unity Export
+# Install with: pip install -r requirements.txt
+
+ifcopenshell>=0.8.0  # Version 0.8.4+ recommended for best geometry support
+psutil>=5.9.0  # Optional: for memory tracking
